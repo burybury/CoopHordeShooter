@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: UE4BuildAgents
+  name: 'UE4BuildAgents'
 
 steps:
 - script: echo Hello, world!
